@@ -1,4 +1,3 @@
-hi
 
 RewriteEngine on
 RewriteCond %{REQUEST_URI} !^/pub/
