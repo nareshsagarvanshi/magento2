@@ -1,3 +1,5 @@
+hi
+
 RewriteEngine on
 RewriteCond %{REQUEST_URI} !^/pub/
 RewriteCond %{REQUEST_URI} !^/setup/
